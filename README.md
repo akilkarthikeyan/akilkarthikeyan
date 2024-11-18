@@ -1,6 +1,6 @@
 # Welcome!
 
-Hi, I'm Akil! I am a Master's student at UIUC (graduating Dec' 2025). I love writing high quality code and learning new stuff. When I'm free, I listen to music, watch TV shows and play Valorant (and sometimes cook)!
+Hi, I'm Akil! I am a Master's student at UIUC (graduating Dec' 2025). I love writing high quality code and learning new stuff. When I'm free, I listen to music, watch TV shows, play Valorant (and sometimes cook)!
 
 <div>
 <a href="https://linkedin.com/in/akilkarthikeyan">
