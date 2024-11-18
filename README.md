@@ -1,51 +1,30 @@
-# Welcome to My Personal Repository
+# Welcome!
 
-Hi, I'm Akil Karthikeyan Anandan! I am a Master's student at UIUC ![Orange Circle](https://via.placeholder.com/150/FFA500/FFFFFF?text=O) ![Blue Circle](https://via.placeholder.com/150/0000FF/FFFFFF?text=B)
+Hi, I'm Akil! I am a Master's student at UIUC (graduating Dec' 2025). I love writing high quality code and learning new stuff. When I'm free, I listen to music and play Valorant (and sometimes cook)!
 
-- 🌐 [My Website](https://yourwebsite.com)
-- 💼 [LinkedIn](https://linkedin.com/in/yourprofile)
-- 🐦 [Twitter](https://twitter.com/yourhandle)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/akilkarthikeyan)
+- [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@akilkarthikeyan)
 
 ## Projects
 
-### Project 1: Awesome Project
-Description: A brief description of what this project is about and its key features.
+### Maxit:
+Description: A single-player game where you play against an AI that uses the Minimax algorithm (built on React.js). You snooze and you'll lose.
 
-![Project 1](https://via.placeholder.com/600x200.png?text=Project+1)
+[Link to repo](https://github.com/akilkarthikeyan/maxit)
 
-### Project 2: Another Cool Project
-Description: A brief description of what this project is about and its key features.
+### Travel Planner:
+Description: Web app for multi-stop trip/travel planning (built on React.js, Node.js, MySQL + GCP Hosting). Uses publicly availble Airbnb and US flight data (from 2022). Built (building) as part of CS411: Database Systems at UIUC.    
 
-![Project 2](https://via.placeholder.com/600x200.png?text=Project+2)
+[Link to repo](https://github.com/akilkarthikeyan/travel-planner)
 
 ## Skills
 
-- **Languages:** Python, JavaScript, C++
-- **Frameworks:** React, Node.js, Django
-- **Tools:** Git, Docker, Kubernetes
-
-## Contact Me
-
-Feel free to reach out if you have any questions or just want to connect!
-
-- 📧 Email: [your.email@example.com](mailto:your.email@example.com)
-- 📱 Phone: +123-456-7890
+- **Languages:** Python, Java, JavaScript/TypeScript, SQL, HTML/CSS
+- **Frameworks:** Spring, Spring Boot, Node.js, React.js
+- **Tools:** Git, Docker, AWS, GCP, Linux/Unix
 
 ## Contributions
 
 I love collaborating on open-source projects. Check out the contributions I've made:
 
-- [Contribution 1](https://github.com/link-to-contribution)
-- [Contribution 2](https://github.com/link-to-contribution)
-
-## Fun Facts
-
-- 🎸 I love playing the guitar.
-- 🌱 I'm currently learning how to garden.
-- ⚡ Fun fact: I can solve a Rubik's cube in under a minute!
-
----
-
-Thank you for visiting my repository! Have a great day!
-
-![Footer Banner](https://via.placeholder.com/1000x100.png?text=Thank+You+for+Visiting)
+- [Fixed flaky tests in Adobe's aem-core-wcm-components repo](https://github.com/adobe/aem-core-wcm-components/pull/2881)
