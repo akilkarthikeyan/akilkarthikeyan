@@ -1,10 +1,6 @@
 # Welcome to My Personal Repository
 
-![Welcome Banner](https://via.placeholder.com/1000x300.png?text=Welcome+to+My+Repo)
-
-## About Me
-
-Hi, I'm Akil Karthikeyan! I'm passionate about coding, technology, and continuous learning. Here I share my projects, ideas, and contributions.
+Hi, I'm Akil Karthikeyan Anandan! I am a Master's student at UIUC ![Orange Circle](https://via.placeholder.com/150/FFA500/FFFFFF?text=O) ![Blue Circle](https://via.placeholder.com/150/0000FF/FFFFFF?text=B)
 
 - 🌐 [My Website](https://yourwebsite.com)
 - 💼 [LinkedIn](https://linkedin.com/in/yourprofile)
