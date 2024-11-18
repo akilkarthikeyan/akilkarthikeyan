@@ -1,9 +1,17 @@
 # Welcome!
 
-Hi, I'm Akil! I am a Master's student at UIUC (graduating Dec' 2025). I love writing high quality code and learning new stuff. When I'm free, I listen to music and play Valorant (and sometimes cook)!
+Hi, I'm Akil! I am a Master's student at UIUC (graduating Dec' 2025). I love writing high quality code and learning new stuff. When I'm free, I listen to music, watch TV shows and play Valorant (and sometimes cook)!
 
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/akilkarthikeyan)
-- [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@akilkarthikeyan)
+<div>
+<a href="https://linkedin.com/in/akilkarthikeyan">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="30" width="120">
+</a>
+</div>
+<div>
+<a href="https://www.youtube.com/@akilkarthikeyan">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" height="30" width="120">
+</a>
+</div>
 
 ## Projects
 
